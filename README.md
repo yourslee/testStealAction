@@ -1,4 +1,4 @@
 testStealAction
 ===============
 
-测试Intent劫持
+测试Intent劫持用,劫持Apk
